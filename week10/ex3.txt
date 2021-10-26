@@ -1,0 +1,6 @@
+-rw-r--r--  1 tohat  staff  4 Oct 25 23:22 _ex3.txt
+-rwxr--rwx  1 tohat  staff  4 Oct 25 23:22 _ex3.txt
+-rwxrwxrwx  1 tohat  staff  4 Oct 25 23:22 _ex3.txt
+User and group can read and write
+User and group have all permissions, others only read and execute
+Everyone is permitted for everything

@@ -1,0 +1,2 @@
+i-node number: 0
+3 filenames: file1 link1 file2
