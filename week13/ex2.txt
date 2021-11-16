@@ -1,0 +1,5 @@
+The decision on what strategy to use comes from the conditions we are in at the moment:
+First, in case we can decide whether it's safe to grant a resource, we better'd used AVOIDANCE.
+If we can preempt resources, set some checkpoints for recovery or safely kill a process,
+	than we can do RECOVERY via preemtion, rollback and killiing process respectively.
+If neither of the above  is possible, the only way is to stand by PREVENTION strategy.
